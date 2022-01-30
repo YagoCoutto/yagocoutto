@@ -1,4 +1,4 @@
-## Olá! Eu sou o Yago Couto ✌️
+## Olá! Eu sou o Yago Couto ✌️   ## Pagina e Repositorio em construção 🚧
 
 - Atualmente estudando Python <img align="center" alt="Yago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <div align="center">
